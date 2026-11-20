@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+*.pkl
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Misc
+.DS_Store
+
+# Local datasets
+/data/raw/creditcard.csv
